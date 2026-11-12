@@ -4,7 +4,7 @@
 
 Ingénieur en informatique de formation, je suis actuellement étudiant en **licence professionnelle Cartographie, Topographie et SIG à Caen**.
 
-Je m'intéresse aux systèmes d'information géographique, à la cartographie et à l'analyse spatiale, avec un intérêt particulier pour les enjeux environnementaux, les mobilités douces et la résilience face au changement climatique.
+Je m'intéresse aux systèmes d'information géographique, à la cartographie et à l'analyse spatiale, avec un intérêt particulier pour les mobilités douces, les enjeux environnementaux, et la résilience face au changement climatique.
 
 ## Compétences et outils
 
